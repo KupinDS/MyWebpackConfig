@@ -1,0 +1,13 @@
+$border: 1px solid #ccc;
+
+.sass{
+    padding: 1rem;
+    border-right: 5px;
+    margin: 15px 0 15px 0;
+    border: $border;
+
+    h2{
+        text-align: center;
+        color: darkviolet;
+    }
+}
